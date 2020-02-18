@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+}
+
+/* <===== BACKGROUND ACCUEIL =====> */
+
+#backAccueil {
+    width: 100%;
+    height: 100%;
+    background: url(../pictures/backInterco.jpg) no-repeat center fixed;
+    -webkit-background-size: cover;
+    /* pour anciens Chrome et Safari */
+    background-size: cover;
+    /* version standardisée */
+}
+
+/* <===== FIN BACKGROUND ACCUEIL =====> */
+
+#infoa:hover {
+    background-color: paleturquoise;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px;
+    font-size: 50px;
+}

@@ -1,0 +1,69 @@
+ul {
+    display: flex;
+    justify-content: center;
+}
+nav a {
+    display: flex;
+    text-decoration: none;
+    padding: 20px;
+    color: black;
+    text-align: center;
+}
+
+nav {
+    
+    justify-content: center;
+    background-color:#4AC0FD;
+}
+
+
+ul li {
+    display:block;
+    background-color: #4AC0FD;
+    border-radius: 5px;
+    border: 4px solid black;
+    color: black;
+    text-align: center;
+    list-style: none;
+    width: 35%;
+    text-align: center;
+}
+
+nav li:hover  {     
+    background-color: rgb(130, 130, 134);     
+}  
+
+
+
+nav li:hover  {
+    color: white; 
+}
+
+.none {
+    display: none;
+}
+
+.account {
+    min-width: 100px;
+    justify-content: center;
+}
+
+.account span, .account li {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.account li {
+    height: 25px;
+}
+
+.account:hover>ul {
+    display: block;
+    height: 10px;;
+}
+
+
+/* ==================== */
