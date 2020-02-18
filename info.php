@@ -15,7 +15,7 @@
     <?php include_once 'templates/footer.php' ?>
     
 
-    <?php if($_SESSION['id']=='jon' && $_SESSION['pass']=='1234'): ?>
+    <?php if($_SESSION['id']=='Jon' && $_SESSION['pass']=='1234'): ?>
     <div class="resultat">
         <h1>Bienvenue <?= $_SESSION['id'] ?></h1>
         <p>Tu es maintenant connecter</p>
