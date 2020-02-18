@@ -4,8 +4,6 @@
 <head>
   <meta charset="UTF-8">
   <link rel="stylesheet" href="css/first_style.css">
-  <link rel="stylesheet" href="css/footer.css">
-  <link rel="stylesheet" href="css/header.css">
   <title>Rien d'spéciale |</title>
 </head>
 
