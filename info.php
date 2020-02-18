@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/footer.css">
     <link rel="stylesheet" href="css/header.css">
-    <title>Rien d'spéciale | Accueil</title>
+    <title>Rien d'spéciale | Information</title>
 </head>
 <body>
     <?php include_once 'templates/header.php' ?>
